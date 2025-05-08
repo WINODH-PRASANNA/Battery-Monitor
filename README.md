@@ -1,4 +1,4 @@
-# Battery Monitor ⚡🔋
+# Battery Monitor 🔋
 
 A simple Python script that monitors your system's battery level and sends a notification when it reaches 100%, reminding you to unplug the charger and help preserve battery health.
 
